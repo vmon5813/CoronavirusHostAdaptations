@@ -2,7 +2,7 @@
 
 The data in this repository corresponds to the manuscript: "Variable routes to genomic and host adaptation among coronaviruses"
 
-It consists of two data files and one set of tables:
+It consists of three data files and one set of tables:
 
 1) SupplementaryTable3.csv
 
@@ -30,6 +30,10 @@ Branches: branches supproting selection (MEME),
 
 Within10Glycan: the positions of the spike protein which are within 10 angstroms of a glycosylation site ("Within10") or not ("Outside")
 
-3) gisaid_hcov-19_acknowledgement_table_Dec2019-Jun13.pdf
+3) SupplementaryTable5.csv
+
+The parameter estimates for the FEL analyses in this study
+
+4) gisaid_hcov-19_acknowledgement_table_Dec2019-Jun13.pdf
 
 Acknowledgement tables for the GISAID sequences used in this study
